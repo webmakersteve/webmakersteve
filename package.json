@@ -1,0 +1,18 @@
+{
+  "name": "webmakersteve",
+  "version": "0.0.1",
+  "description": "Personal website of webmakersteve",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Stephen Parente <webmakersteve@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "battlenet.js": "0.0.5",
+    "commander": "^2.9.0",
+    "express": "^4.13.4",
+    "passport": "^0.3.2",
+    "passport-bnet": "^1.2.1"
+  }
+}
